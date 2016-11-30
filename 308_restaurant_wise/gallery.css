@@ -1,0 +1,12 @@
+div.gallery a img {
+	outline: none;
+	border: 3px solid #baa6d0;
+	border-radius: 55px;
+	padding: 3px;
+	margin: 13px;
+	vertical-align: top;
+}
+
+.gallery {
+padding: 0px 0px 0px 84px;
+}

@@ -1,0 +1,49 @@
+.page {
+  max-width: 569px;
+  margin: 0px auto 30px auto;}
+
+/**********  ACCORDION **********/
+.accordion, .menu {
+  background-color: #fcf5eb;
+  color: #8f6a4d;
+  margin: 3px;
+  padding: 0px;
+  overflow: auto;}
+
+.accordion li {
+  padding: 0px;
+  list-style-type: none;}
+
+.accordion-control {
+  background-color: #8f6a4d;
+  color: #fff;
+  display: block;
+  width: 100%;
+  padding: 0.5em 0.5em 0.5em 0.7em;
+  margin: 0px;
+}
+
+.accordion-panel {
+  display: none;
+}
+
+.accordion-panel p {
+  margin: 20px;
+}
+
+.accordion-panel img {
+  display: block;
+  clear: left;
+}
+  
+button {
+  font-size: 90%;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+dt {
+	font-family: Helvetica, sans-serif;
+	font-size: 100%;
+	line-height: 30px;
+}
